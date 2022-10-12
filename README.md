@@ -1,7 +1,10 @@
-👋 Hi, I'm a designer and sometimes coder from the Netherlands. The name Martino (my usual nickname) was already taken on GitHub, so I added "magnifico" to it. Don't know why.
+👋 Hi, I'm a designer and sometimes coder from the Netherlands. The name Martino (my usual nickname) was already taken on GitHub, so I added "magnifico" to it. I could have chosen something shorter.
 
 
 ## Reveal.js Plugins
+
+I wrote some plugins for [Reveal.js](http://revealjs.com), mainly out of necessity for my own presentations. They are all open-source. Here's an [overview](https://martinomagnifico.github.io) of all of them.
+
 
 |Name|Demo|Description|
 |:------------- |:------------- |:-------------|
