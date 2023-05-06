@@ -21,3 +21,6 @@ I wrote some plugins for [Reveal.js](http://revealjs.com), mainly out of necessi
 | Smallcontrol <br> [source](https://github.com/Martinomagnifico/reveal.js-smallcontrol)/[demo](https://martinomagnifico.github.io/reveal.js-smallcontrol/demo.html) | A plugin that restyles the controls to make the vertical control elements smaller. |
 | Tagteam <br> [source](https://github.com/Martinomagnifico/reveal.js-tagteam)/[demo](https://martinomagnifico.github.io/reveal.js-tagteam/demo.html) | A plugin that is used to dynamically show only certain sections in presentations when you don't want to show everything. |  |
 | Counteract <br> [source](https://github.com/Martinomagnifico/reveal.js-counteract)/[demo](https://martinomagnifico.github.io/reveal.js-counteract/demo.html) | CounterAct fixes a limitation of CSS counters that do not work in hidden slides. |
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=martinomagnifico&show_icons=true&theme=transparent)
