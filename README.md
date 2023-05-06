@@ -23,4 +23,4 @@ I wrote some plugins for [Reveal.js](http://revealjs.com), mainly out of necessi
 | Counteract <br> [source](https://github.com/Martinomagnifico/reveal.js-counteract)/[demo](https://martinomagnifico.github.io/reveal.js-counteract/demo.html) | CounterAct fixes a limitation of CSS counters that do not work in hidden slides. |
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=martinomagnifico&show_icons=true&theme=transparent&hide=prs,issues,contribs)
+
