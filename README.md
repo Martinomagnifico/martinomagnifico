@@ -29,5 +29,6 @@ For Quarto, there are also a few plugins specifically made for that environment:
 |Name|Description|
 |:-------------|:-------------|
 | Appearance <br> [source](https://github.com/martinomagnifico/quarto-appearance)/[demo](https://martinomagnifico.github.io/quarto-appearance/docs/demo.html) | A plugin that animates elements sequentially like in Powerpoint, using Animate.css. |
+| CopyCode <br> [source](https://github.com/martinomagnifico/quarto-copycode)/[demo](https://martinomagnifico.github.io/quarto-copycode/docs/demo.html) | A simple plugin that automatically shows a 'copy' button in code blocks. |
 | Simplemenu <br> [source](https://github.com/martinomagnifico/quarto-simplemenu)/[demo](https://martinomagnifico.github.io/quarto-simplemenu/docs/demo.html) | A simple plugin for a menubar or a header or footer with an auto-generated menu.|
 | Verticator <br> [source](https://github.com/martinomagnifico/quarto-verticator)/[demo](https://martinomagnifico.github.io/reveal.js-verticator/demo.html) | A plugin that adds indicators to show the amount of slides in a vertical stack.|
