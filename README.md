@@ -24,7 +24,7 @@ I wrote some plugins for [Reveal.js](http://revealjs.com), mainly out of necessi
 
 
 
-For Quarto, there are also a few plugins specifically made for that environment:
+For Quarto, there are also a few of the above plugins specifically adapted for that environment:
 
 |Name|Description|
 |:-------------|:-------------|
