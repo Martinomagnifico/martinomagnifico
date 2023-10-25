@@ -10,7 +10,7 @@ I wrote some plugins for [Reveal.js](http://revealjs.com), mainly out of necessi
 |Name|Description|
 |:-------------|:-------------|
 | Simplemenu <br> [source](https://github.com/martinomagnifico/reveal.js-simplemenu)/[demo](https://martinomagnifico.github.io/reveal.js-simplemenu/demo.html) | A simple plugin for a menubar or a header or footer with an auto-generated menu.|
-| Appearance <br> [source](https://github.com/martinomagnifico/reveal.js-appearance)/[demo](https://martinomagnifico.github.io/reveal.js-appearance/demo.html) | A plugin that animates elements sequentially like in Powerpoint, using Animate.css. |
+| Appearance <br> [source](https://github.com/martinomagnifico/reveal.js-appearance)/[demo](https://martinomagnifico.github.io/reveal.js-appearance/demo/demo.html) | A plugin that animates elements sequentially like in Powerpoint, using Animate.css. |
 | FsFX <br> [source](https://github.com/martinomagnifico/reveal.js-fsfx)/[demo](https://martinomagnifico.github.io/reveal.js-fsfx/demo.html) | A plugin for a button or other element that enters or exits fullscreen. |
 | Verticator <br> [source](https://github.com/martinomagnifico/reveal.js-verticator)/[demo](https://martinomagnifico.github.io/reveal.js-verticator/demo.html) | A plugin that adds indicators to show the amount of slides in a vertical stack.|
 | Fontsfirst <br> [source](https://github.com/martinomagnifico/reveal.js-fontsfirst)/[demo](https://martinomagnifico.github.io/reveal.js-fontsfirst/demo.html) | A plugin that makes sure that remote or selfhosted fonts are loaded before initialising Reveal.js.|
