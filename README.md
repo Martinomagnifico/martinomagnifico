@@ -1,6 +1,13 @@
 👋 Hi, I'm a designer and sometimes coder from the Netherlands. The name Martino (my usual nickname) was already taken on GitHub, so I added "magnifico" to it. I could have chosen something **shorter** or **less magnificent**. But now I can not change it anymore and have to live with it.
 
 
+## Generic tools
+
+|Name|Description|
+|:-------------|:-------------|
+| Panelset <br> [source](https://github.com/martinomagnifico/panelset)/[demo](https://martinomagnifico.github.io/panelset/index.html) | Flexible and accessible panel management with smooth transitions. Animation is CSS-only: JS just measures and sets pixel values, then lets your browser do the rest with CSS. |
+
+
 ## Reveal.js Plugins
 
 I wrote some plugins for [Reveal.js](http://revealjs.com), mainly out of necessity for my own presentations. They are all open-source. Here's an [overview](https://martinomagnifico.github.io) of all of them.
