@@ -6,6 +6,7 @@
 |Name|Description|
 |:-------------|:-------------|
 | Panelset <br> [source](https://github.com/martinomagnifico/panelset)/[demo](https://martinomagnifico.github.io/panelset/index.html) | Flexible and accessible panel management with smooth transitions. Animation is CSS-only: JS just measures and sets pixel values, then lets your browser do the rest with CSS. |
+| Tablechart <br> [source](https://github.com/martinomagnifico/tablechart)/[demo](https://martinomagnifico.github.io/tablechart/index.html) | Simple charts from an HTML or Markdown table: column, bar, line, area, pie, waterfall and donut. Scatter and candlestick too. |
 
 
 ## Reveal.js Plugins
@@ -25,6 +26,7 @@ I wrote some plugins for [Reveal.js](http://revealjs.com), mainly out of necessi
 | Relativenumber <br> [source](https://github.com/martinomagnifico/reveal.js-relativenumber)/[demo](https://martinomagnifico.github.io/reveal.js-relativenumber/demo.html) | A simple plugin to get the slide number at a desired location.|
 | CopyCode <br> [source](https://github.com/martinomagnifico/reveal.js-copycode)/[demo](https://martinomagnifico.github.io/reveal.js-copycode/demo/demo.html) | A simple plugin that automatically shows a 'copy' button in code blocks. |
 | Internation <br> [source](https://github.com/martinomagnifico/reveal.js-internation)/[demo](https://martinomagnifico.github.io/reveal.js-internation/demo.html) | A basic internationalization (i18n) or localization (i10n) plugin that lets the user choose a language for the presentation. |
+| Tablechart <br> [source](https://github.com/martinomagnifico/reveal.js-tablechart)/[demo](https://martinomagnifico.github.io/reveal.js-tablechart/demo.html) | A plugin for showing simple charts in your presentations. |
 | Doghouse <br> [source](https://github.com/martinomagnifico/reveal.js-doghouse)/[demo](https://martinomagnifico.github.io/reveal.js-doghouse/demo.html) | A plugin that will render Pug codeblocks when it starts, but it also works with live editing. |
 | Smallcontrol <br> [source](https://github.com/martinomagnifico/reveal.js-smallcontrol)/[demo](https://martinomagnifico.github.io/reveal.js-smallcontrol/demo.html) | A plugin that restyles the controls to make the vertical control elements smaller. |
 | Tagteam <br> [source](https://github.com/martinomagnifico/reveal.js-tagteam)/[demo](https://martinomagnifico.github.io/reveal.js-tagteam/demo.html) | A plugin that is used to dynamically show only certain sections in presentations when you don't want to show everything. |  |
@@ -41,4 +43,4 @@ For Quarto, there are also a few of the above plugins specifically adapted for t
 | Multimodal <br> [source](https://github.com/martinomagnifico/quarto-multimodal)/[demo](https://martinomagnifico.github.io/quarto-multimodal/demo.html) | A Quarto extension to show content like images, video and HTML in modal windows or lightboxes.|
 
 
-![npm downloads](https://img.shields.io/endpoint?style=flat&url=https://yearly-npm-downloads-user.deno.dev/reveal.js-appearance,reveal.js-copycode,reveal.js-counteract,reveal.js-doghouse,reveal.js-fontsfirst,reveal.js-internation,reveal.js-simplemenu,reveal.js-smallcontrol,reveal.js-tagteam,reveal.js-transit,reveal.js-verticator,panelset)
+![npm downloads](https://img.shields.io/endpoint?style=flat&url=https://yearly-npm-downloads-user.deno.dev/reveal.js-appearance,reveal.js-copycode,reveal.js-counteract,reveal.js-doghouse,reveal.js-fontsfirst,reveal.js-internation,reveal.js-simplemenu,reveal.js-smallcontrol,reveal.js-tagteam,reveal.js-transit,reveal.js-verticator,panelset,@martinomagnifico/tablechart,reveal.js-tablechart)
